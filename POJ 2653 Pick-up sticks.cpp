@@ -5,7 +5,7 @@
 using namespace std;
 
 const int maxn = 100000 + 5;
-const double eps=1e-10;
+const double eps = 1e-10;
 
 struct point
 { 
