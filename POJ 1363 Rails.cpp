@@ -6,7 +6,8 @@ using namespace std;
 
 const int maxn = 1005;
 
-int main() {
+int main() 
+{
 	int n;
 	int num[maxn];
 	int origin[maxn];
@@ -36,7 +37,7 @@ int main() {
 						}
 					}
 				}
-			}
+            }
 			printf( "%s\n", flag ? "Yes" : "No" );
 		}
 		puts( "" );
